@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
 
-- 🔭 I’m currently working on **Front-End Development**
+- 🔭 I’m currently working on **Mobile Application Development**
 
 - 🌱 I’m currently learning **React.js & Dart**
 
