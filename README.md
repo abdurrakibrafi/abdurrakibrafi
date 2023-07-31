@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdur Rakib Rafi</h1>
-<h3 align="center">A passionate Front-End developer</h3>
+<h3 align="center">A passionate as a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
 
 - 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **React.js & Node.js**
+- 🌱 I’m currently learning **React.js & Dart**
 
-- 💬 Ask me about **'JavaScript' || 'Web-Development'**
+- 💬 Ask me about **'Mobile Application Development' || 'Web-Development'**
 
 - 📫 How to reach me **abdurrakibrafi469@gmail.com**
 
