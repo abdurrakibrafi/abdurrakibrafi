@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdur Rakib Rafi</h1>
-<h3 align="center">A passionate as a Software Engineer</h3>
+<h3 align="center">A Passionate As a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **'Mobile Application Development' || 'Web-Development'**
 
-- 📫 How to reach me **Email -abdurrakibrafi469@gmail.com** || **WhatsApp -01316255373**
+- 📫 How to reach me **Email: abdurrakibrafi469@gmail.com** || **WhatsApp or Call: 01743340330**
 
 - ⚡ Fun fact **Love to coding & generate something new**
 
