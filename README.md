@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdur Rakib Rafi</h1>
+<h1 align="center">Hello <img width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Abdur Rakib Rafi</h1>
 <h3 align="center">A Passionate As a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
