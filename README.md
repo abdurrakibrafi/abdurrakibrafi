@@ -14,6 +14,20 @@
 
 - ⚡ Fun fact **Love to coding & generate something new**
 
+
+
+### Skills I have
+- Languages : C, Dart, Swift, Go
+- Frameworks : Flutter, iOS
+- Database: MySQL, SQL Server, SQLite, Postgresql
+- Strong knowledge in RESTful web-services/API
+- Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team 
+- Have good experience with Unit testing
+- Good problem solving skill 
+- Adobe XD & Figma for UI/UX
+- Proper knowledge of Github
+- Know about business analysis
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdurrakibrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdurrakibrafi" height="30" width="40" /></a>
