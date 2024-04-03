@@ -5,15 +5,15 @@ Passionate As a<strong> Software Engineer </strong>. I'm currently working on Mo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
 <!-- <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
  -->
-- 🔭 I’m currently working on **Mobile Application Development**
+ - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently working **Flutter & React.js**
+ - 🌱 I’m currently working **Flutter & React.js**
 
-- 💬 Ask me about **'Mobile Application Development' || 'Web-Development'**
+ - 💬 Ask me about **'Mobile Application Development' || 'Web-Development'**
 
-- 📫 How to reach me **Email: abdurrakibrafi469@gmail.com** || **WhatsApp or Call: 01743340330**
+ - 📫 How to reach me **Email: abdurrakibrafi469@gmail.com** || **WhatsApp or Call: 01743340330**
 
-- ⚡ Fun fact **Love to coding & generate something new**
+ - ⚡ Fun fact **Love to coding & generate something new**
 
 
 
