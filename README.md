@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Abdur Rakib Rafi</h1>
 
-Passionate As a<strong> Software Engineer </strong>. I'm currently working on Mobile Development. As mobile app devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for Cross Platform Native App Development.
+Passionate As a<strong> Software Engineer </strong>. I'm currently working on Mobile Development. As Mobile App Devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for Cross Platform Native App Development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
 <!-- <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
  -->
- - 🔭 I’m currently working on **Mobile Application Development**
+ - 🔭 I’m currently working on <strong>Mobile Application Development </strong>
 
  - 🌱 I’m currently working **Flutter & React.js**
 
