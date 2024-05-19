@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Abdur Rakib Rafi</h1>
+<h1 align="center">Hi <img width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Abdur Rakib Rafi 💫</h1>
 
 Passionate As a<strong> Software Engineer </strong>. I'm currently working on Mobile Development. As Mobile App Devleoper I use <strong>[Flutter](https://flutter.dev/)</strong> which is a framework for Cross Platform Native App Development.
 
